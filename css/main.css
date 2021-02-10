@@ -2,9 +2,8 @@
 h1{THE PIZZA BAGEL
     text-transform: uppercase;
     text-align: center;
-    font-family: baskerville, caligraphy, serif;
-   }
-  margin-bottom: 10px red;
+    font-family: baskerville, caligraphy, cursive, fantasy, serif;
+    margin-bottom: 10px red;   }
 
 h2{
   text-align: left;
@@ -19,7 +18,7 @@ href="https://www.brit.co/unusual-pizza-toppings/"new flavor combinations.</a>
 
 /* Paragraphs */
 p{text-align: left;
-font-family: perpetua, serif;
+font-family: perpetua, sans-serif;
   }
 
 
@@ -31,7 +30,7 @@ font-family: sans-serif;
 }
 
 h2 {
- font-family: cursive, fantasy, monospace, sans-serif, serif;
+ font-family: monospace, sans-serif, serif;
 }
 
 
