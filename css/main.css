@@ -1,3 +1,31 @@
+/* Headers */
+h1{THE PIZZA BAGEL
+    text-transform: uppercase;
+    text-align: center;
+    font-family: baskerville, caligraphy, serif;
+   }
+  margin-bottom: 10px red;
+
+h2{
+  text-align: left;
+  font-family: perpetua, palatino, georgia, serif;
+}
+
+/* Links */
+<a> href="https://www.bostonmagazine.com/restaurants/2014/08/26/katz-bagel-bakery-pizza-bagel/"Richard Katz.</a>
+
+<a>
+href="https://www.brit.co/unusual-pizza-toppings/"new flavor combinations.</a>
+
+/* Paragraphs */
+p{text-align: left;
+font-family: perpetua, serif;
+  }
+
+
+
+
+ 
 h1 {
 font-family: sans-serif;
 }
